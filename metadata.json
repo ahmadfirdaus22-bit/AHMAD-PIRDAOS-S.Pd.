@@ -1,0 +1,5 @@
+{
+  "name": "RPM Generator",
+  "description": "An application to generate a comprehensive Deep Learning Plan (Rencana Pembelajaran Mendalam - RPM) for all educational levels and subjects using Gemini.",
+  "requestFramePermissions": []
+}
